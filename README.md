@@ -1,3 +1,5 @@
+This submission contains a set of models to show the implementation of a Pure Pursuit controller on a vehicle under different scenarios. About the models: These models show a workflow to implement a Pure Pursuit controller to track a planned path. Steps below describe the workflow: 1. Generating waypoints 2. Formulating required steering angle for lateral control 3. Implementing a longitudinal controller to track the path at higher velocity 4. Visualizing vehicle final path in Bird's-Eye Scope and a 3D simulation environment
+
 Vehicle Path Tracking using Pure Pursuit Controller
 
 This submission contains a set of models to show the implementation of a Pure Pursuit controller on a vehicle under different scenarios. 
